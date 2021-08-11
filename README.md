@@ -11,6 +11,8 @@ Data folder contains:
 * Twitch Views -  Data of the unique observations of top trending streams, with percentage increase of viewership over lifetime on the trending tab feature, title and username sentiment anaysis (VADER and Emote Controlled), and sentiment analysis using Afinn extracting nominal realism from Twitch usernames. 23 578 observations (file name = twitch_views.csv)
 * YouTube Views -  Data of the unique observations of top trending videos, with percentage increase of viewership over lifetime on the trending tab feature, title and username sentiment anaysis (VADER), and sentiment analysis using Afinn extracting nominal realism from YouTube usernames. 1454 observations (file name = youtube_views.csv)
 * Emote controlled - Data from Kobs et al mapping Twitch emotes to valence ratings
+* VGSales Video Games Sales Data from 
+* YouTube Crowdsourced Classification Data by the YouTuber CoffeeBreak
 ## Code
 
 Code folder contains:
