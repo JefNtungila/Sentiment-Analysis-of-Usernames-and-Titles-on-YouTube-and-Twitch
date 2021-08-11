@@ -16,5 +16,7 @@ Data folder contains:
 ## Code
 
 Code folder contains:
+* Google Cloud Function that ingests data from YouTube and pushes it to GitHub
+* Google Cloud Function that ingests data from Twitch and pushes it to GitHub
 
 
