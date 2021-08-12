@@ -18,6 +18,6 @@ Data folder contains:
 Code folder contains:
 * Google Cloud Function that ingests data from YouTube and pushes it to GitHub
 * Google Cloud Function that ingests data from Twitch and pushes it to GitHub
-* Jupyter Notebook that wrangles all the ingested YouTube and Twitch files and adds Genre
+* Jupyter Notebook that wrangles all the ingested YouTube and Twitch files and adds genre
 
 
