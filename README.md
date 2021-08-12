@@ -16,8 +16,8 @@ Data folder contains:
 ## Code
 
 Code folder contains:
-* Google Cloud Function that ingests data from YouTube and pushes it to GitHub
-* Google Cloud Function that ingests data from Twitch and pushes it to GitHub
+*  [Google Cloud Function Python file: YouTube](https://github.com/JefNtungila/Sentiment-Analysis-of-Usernames-and-Titles-on-YouTube-and-Twitch/blob/main/code/gcp_youtube_2_github.py) - ingests data from YouTube and pushes it to GitHub
+* [Google Cloud Function Python file: Twitch ](https://github.com/JefNtungila/Sentiment-Analysis-of-Usernames-and-Titles-on-YouTube-and-Twitch/blob/main/code/gcp_twitch_2_github.py) - that ingests data from Twitch and pushes it to GitHub
 * Jupyter Notebook that wrangles all the ingested YouTube and Twitch files and adds genre
 
 
