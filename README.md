@@ -2,7 +2,7 @@
 
 This Master Thesis investigates the influence of username and title sentiment on video performance in terms of viewership on Social Media Platforms YouTube and Twitch. Google Cloud Functions were deployed that utilised the Twitch API and YouTube API to fetch the data and pushed the data to GitHub. NLP techniques were used to gain an in depth understanding of the unstructured data.
 
-Critical analysis of the literature and sentiment models results in actionable insights. Bayesian causal inference was performed as part of the analysis. These insights culminated in the creation of a search engine flutter app which deployed a machine learning model using Google Cloud Functions on the Google Cloud Platform. This search engine takes a username or title in and returns the sentiment classification. This technology can be used for user centric recommendations based on the user mood, in addition to the current predictive application.
+Critical analysis of the literature and sentiment models results in interesting insights. These insights culminated in the creation of a search engine flutter app which deployed a machine learning model using Google Cloud Functions on the Google Cloud Platform. This search engine takes a username or title in and returns the sentiment classification. This technology can be used for user centric recommendations based on the user mood, in addition to the current predictive application.
 
 ## Data
 Data folder contains:
