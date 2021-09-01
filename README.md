@@ -12,7 +12,7 @@ Data folder contains:
 * [YouTube Views](https://github.com/JefNtungila/Sentiment-Analysis-of-Usernames-and-Titles-on-YouTube-and-Twitch/blob/main/data/youtube_views.csv) -  Data of the unique observations of top trending videos, with percentage increase of viewership over lifetime on the trending tab feature, title and username sentiment anaysis (VADER), and sentiment analysis using Afinn extracting nominal realism from YouTube usernames. 1454 observations (file name = youtube_views.csv)
 * [Emote Controlled](https://github.com/JefNtungila/Sentiment-Analysis-of-Usernames-and-Titles-on-YouTube-and-Twitch/blob/main/data/emote_average) - Data from Kobs et al mapping Twitch emotes to valence ratings
 * [VGS Sales](https://github.com/JefNtungila/Sentiment-Analysis-of-Usernames-and-Titles-on-YouTube-and-Twitch/blob/main/data/vgsales.csv) - Video Games Sales Data from vgchartz.com via Kaggle
-* [YouTube Crowdsourced Classification](https://github.com/JefNtungila/Sentiment-Analysis-of-Usernames-and-Titles-on-YouTube-and-Twitch/blob/main/data/Trending_CrowdSourced_Classification.csv) - Data by the YouTuber CoffeeBreak
+* [YouTube Crowdsourced Classification](https://github.com/JefNtungila/Sentiment-Analysis-of-Usernames-and-Titles-on-YouTube-and-Twitch/blob/main/data/Trending_CrowdSourced_Classification.csv) - Data by the YouTuber Coffee Break
 ## Code
 
 Code folder contains:
