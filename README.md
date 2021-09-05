@@ -30,6 +30,6 @@ Prototype folder contains:
 
 [The main screen code, the title screen code and username screen  codeof the app](https://github.com/JefNtungila/Sentiment-Analysis-of-Usernames-and-Titles-on-YouTube-and-Twitch/tree/main/prototype)
 
-Please find the prototype at [sentiment-analyser-65bd8.web.app](sentiment-analyser-65bd8.web.app) for your appreciation.
+Please find the prototype at [sentiment-analyser-65bd8.web.app](https://sentiment-analyser-65bd8.web.app/#/) for your appreciation.
 
 
