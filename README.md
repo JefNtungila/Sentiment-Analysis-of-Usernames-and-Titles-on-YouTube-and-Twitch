@@ -24,10 +24,11 @@ Code folder contains:
 * [Sentiment Analysis on YouTube Data Notebook ](https://github.com/JefNtungila/Sentiment-Analysis-of-Usernames-and-Titles-on-YouTube-and-Twitch/blob/main/code/Sentiment_Analysis_of_Usernames_and_Titles_on_YouTube_and_Twitch_YouTube_Analysis.ipynb) - Jupyter Notebook that analysed username and sentiment data on YouTube
 
 
+## Prototype
 
 Prototype folder contains: 
 
-[the main screen, the title screen and username screen of the app](https://github.com/JefNtungila/Sentiment-Analysis-of-Usernames-and-Titles-on-YouTube-and-Twitch/tree/main/prototype)
+[The main screen, the title screen and username screen of the app](https://github.com/JefNtungila/Sentiment-Analysis-of-Usernames-and-Titles-on-YouTube-and-Twitch/tree/main/prototype)
 
 
 
