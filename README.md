@@ -1,8 +1,8 @@
 # Master Thesis: Sentiment Analysis of Usernames and Titles on YouTube and Twitch
 
-This Master Thesis investigates the influence of username and title sentiment on video performance in terms of viewership on Social Media Platforms YouTube and Twitch. Google Cloud Functions were deployed that utilised the Twitch API and YouTube API to fetch the data and pushed the data to GitHub. NLP techniques were used to gain an in depth understanding of the unstructured data.
+This Master Thesis investigates the influence of username and title sentiment on video performance in terms of viewership. This research is performed on Social Media Platforms YouTube and Twitch. NLP data visualisation techniques, sentiment analysis and emotion detection were used to gain an in depth understanding of the unstructured title and username data. 
 
-Critical analysis of the literature and sentiment models results in interesting insights. These insights culminated in the creation of a search engine flutter app which deployed a machine learning model using Google Cloud Functions on the Google Cloud Platform. This search engine takes a username or title in and returns the sentiment classification. This technology can be used for user centric recommendations based on the user mood, in addition to the current predictive application.
+Enough evidence was found to suggest that title sentiment and title emotions impact viewership. These insights culminated in the creation of a Flutter web app which deployed the sentiment analysis models. This web app takes a username or title in and returns the sentiment classification. The findings in this paper can be used by actors that seek to understand sentiment and viewership performance on social media trending tabs.
 
 ## Data
 Data folder contains:
