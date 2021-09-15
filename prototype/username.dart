@@ -51,14 +51,13 @@ class _FirstScreenState extends State<FirstScreenUsername> {
   void _sendDataToSecondScreen(BuildContext context) async {
     String textToSend = textFieldController.text;
     String processedString = '';
-    sentimentAnalyser(textToSend).then((String result) {
+    await sentimentAnalyser(textToSend).then((String result) {
       setState(() {
         processedString = result;
       });
     });
-    await sleep3();
+    // await sleep3();
     // setState(() {});
-    ;
 
     Navigator.push(
         context,
@@ -88,18 +87,17 @@ class SecondScreen extends StatelessWidget {
 
 Future<String> sentimentAnalyser(name) async {
   String url =
+      // 'https://cors-anywhere.herokuapp.com/'
       'https://europe-west2-seraphic-camera-313915.cloudfunctions.net/function-4?name=$name';
   var request = Uri.parse(url);
-  var response = await http.post(request, headers: {
-    'Access-Control-Allow-Origin': '*', // Required for CORS support to work
-    'Access-Control-Allow-Methods': 'GET',
-    'Access-Control-Allow-Headers': 'Content-Type',
-    'Access-Control-Max-Age': '3600'
+  var response = await http.get(request, headers: {
+    'Content-Type': 'application/json',
+    'Accept': 'application/json'
   });
   response.statusCode;
   return response.body;
 }
 
-Future sleep3() {
-  return new Future.delayed(const Duration(seconds: 3), () => "3");
-}
+// Future sleep3() {
+//   return new Future.delayed(const Duration(seconds: 3), () => "3");
+// }
