@@ -85,11 +85,9 @@ Future<String> sentimentAnalyser(sentence) async {
       'https://europe-west2-seraphic-camera-313915.cloudfunctions.net/function-3?sentence=$sentence';
 
   var request = Uri.parse(url);
-  var response = await http.post(request, headers: {
-    'Access-Control-Allow-Origin': '*', // Required for CORS support to work
-    'Access-Control-Allow-Methods': 'GET',
-    'Access-Control-Allow-Headers': 'Content-Type',
-    'Access-Control-Max-Age': '3600'
+  var response = await http.get(request, headers: {
+    'Content-Type': 'application/json',
+    'Accept': 'application/json'
   });
   response.statusCode;
 
