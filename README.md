@@ -28,7 +28,7 @@ Code folder contains:
 
 Prototype folder contains: 
 
-[The main screen code, the title screen code, username screen  code, title back-end and username backend of the app](https://github.com/JefNtungila/Sentiment-Analysis-of-Usernames-and-Titles-on-YouTube-and-Twitch/tree/main/prototype)
+[The main screen code, the title screen code, username screen  code, title back-end and username back-end of the app](https://github.com/JefNtungila/Sentiment-Analysis-of-Usernames-and-Titles-on-YouTube-and-Twitch/tree/main/prototype)
 
 Please find the prototype at [sentiment-analyser-65bd8.web.app](https://sentiment-analyser-65bd8.web.app/#/) for your appreciation.
 
