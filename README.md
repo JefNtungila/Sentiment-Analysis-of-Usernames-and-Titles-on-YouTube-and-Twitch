@@ -17,7 +17,7 @@ Data folder contains:
 
 Code folder contains:
 *  [Google Cloud Function Python file: YouTube](https://github.com/JefNtungila/Sentiment-Analysis-of-Usernames-and-Titles-on-YouTube-and-Twitch/blob/main/code/gcp_youtube_2_github.py) - ingests data from YouTube and pushes it to GitHub
-* [Google Cloud Function Python file: Twitch ](https://github.com/JefNtungila/Sentiment-Analysis-of-Usernames-and-Titles-on-YouTube-and-Twitch/blob/main/code/gcp_twitch_2_github.py) - that ingests data from Twitch and pushes it to GitHub
+* [Google Cloud Function Python file: Twitch ](https://github.com/JefNtungila/Sentiment-Analysis-of-Usernames-and-Titles-on-YouTube-and-Twitch/blob/main/code/gcp_twitch_2_github.py) - ingests data from Twitch and pushes it to GitHub
 * [YouTube and Twitch Data Wrangling Notebook ](https://github.com/JefNtungila/Sentiment-Analysis-of-Usernames-and-Titles-on-YouTube-and-Twitch/blob/main/code/Sentiment_Analysis_of_Usernames_and_Titles_on_YouTube_and_Twitch_DATA_WRANGLING.ipynb) - Jupyter Notebook that wrangles all the ingested YouTube and Twitch files and adds genre
 * [YouTube and Twitch Exploratory Data Analysis Notebook ](https://github.com/JefNtungila/Sentiment-Analysis-of-Usernames-and-Titles-on-YouTube-and-Twitch/blob/main/code/Sentiment_Analysis_of_Usernames_and_Titles_on_YouTube_and_Twitch_Exploratory_Data_Analysis.ipynb) - Jupyter Notebook that explored the username and title data.
 * [Sentiment Analysis on Twitch Data Notebook ](https://github.com/JefNtungila/Sentiment-Analysis-of-Usernames-and-Titles-on-YouTube-and-Twitch/blob/main/code/Sentiment_Analysis_of_Usernames_and_Titles_on_YouTube_and_Twitch_Twitch_Analysis.ipynb) - Jupyter Notebook that analysed username and sentiment data on Twitch
