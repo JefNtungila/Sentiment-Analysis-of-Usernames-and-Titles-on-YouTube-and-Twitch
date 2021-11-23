@@ -4,7 +4,7 @@ This Master Thesis investigates the influence of username and title sentiment on
 
 Enough evidence was found to suggest that title sentiment and title emotions impact viewership. These insights culminated in the creation of a Flutter web app which deployed the sentiment analysis models. This web app takes a username or title in and returns the sentiment classification. The findings in this paper can be used by actors that seek to understand sentiment and viewership performance on social media trending tabs.
 
-Full Master Thesis can be found [here](https://www.researchgate.net/publication/356377410_Sentiment_Analysis_of_Social_Media_Usernames_and_Titles_on_YouTube_and_Twitch#fullTextFileContent) or here
+Full Master Thesis can be found [here](https://www.researchgate.net/publication/356377410_Sentiment_Analysis_of_Social_Media_Usernames_and_Titles_on_YouTube_and_Twitch#fullTextFileContent) or [here](https://github.com/JefNtungila/Sentiment-Analysis-of-Usernames-and-Titles-on-YouTube-and-Twitch/blob/main/MASTER_THESIS.pdf)
 
 Please reference:
 
